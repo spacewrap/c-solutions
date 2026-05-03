@@ -1,5 +1,3 @@
-/* Adds two fractions */
-
 #include <stdio.h>
 
 int main(void) {

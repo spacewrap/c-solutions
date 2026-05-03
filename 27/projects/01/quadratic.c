@@ -1,15 +1,3 @@
-/*********************************************************
- * From C PROGRAMMING: A MODERN APPROACH, Second Edition *
- * By K. N. King                                         *
- * Copyright (c) 2008, 1996 W. W. Norton & Company, Inc. *
- * All rights reserved.                                  *
- * This program may be freely distributed for class use, *
- * provided that this copyright notice is retained.      *
- *********************************************************/
-
-/* quadratic.c (Chapter 27, page 723) */
-/* Finds the roots of the equation 5x**2 + 2x + 1 = 0 */
-
 #include <complex.h>
 #include <math.h>
 #include <stdio.h>

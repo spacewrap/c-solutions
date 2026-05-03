@@ -1,4 +1,3 @@
-// directives start
 #include <stdio.h>
 // directives
 

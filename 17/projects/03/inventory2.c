@@ -1,17 +1,3 @@
-/*********************************************************
- * From C PROGRAMMING: A MODERN APPROACH, Second Edition *
- * By K. N. King                                         *
- * Copyright (c) 2008, 1996 W. W. Norton & Company, Inc. *
- * All rights reserved.                                  *
- * This program may be freely distributed for class use, *
- * provided that this copyright notice is retained.      *
- *********************************************************/
-
-/* inventory2.c (Chapter 17, page 434) */
-/* Maintains a parts database (linked list version) */
-
-/* NB: This file has been altered from its original source */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "readline.h"
