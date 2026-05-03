@@ -8,5 +8,3 @@ Enter second date (mm/dd/yyyy): 5/17/07
 5/17/07 is earlier than 3/6/08
 ```
 
-### Solution
-See `9.c`.

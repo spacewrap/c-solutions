@@ -9,8 +9,3 @@ int temperatures[7][24];
 Write a statement that uses the `search` function (see Exercise 7) to search the
 entire `temperatures` array for the value 32.
 
-### Solution
-
-```c
-bool has32 = search(temperatures, 7 * 24, 32);
-```

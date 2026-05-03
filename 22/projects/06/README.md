@@ -31,6 +31,3 @@ and the operating system. The example above assumes that `pun.c` is a Windows
 file, so 0D and 0A bytes (the ASCII carriage-return and line-feed characters)
 appear at the end of each line. *Hint:* Be sure to open the file in `"rb"` mode.
 
-### Solution
-
-See `6.c`.

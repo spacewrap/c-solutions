@@ -8,6 +8,3 @@ Which kind of variables cannot be initialized?
 (d) Union variables  
 (e) None of the above
 
-### Solution
-
-(e). All variables can be initialized.

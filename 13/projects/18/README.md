@@ -11,6 +11,3 @@ You entered the date February 17, 2011
 
 Store the month names in an array that contains pointers to strings.
 
-### Solution
-
-See `18.c`.

@@ -8,5 +8,3 @@ After displaying the message, the program should use `getchar` to read a
 character. `getchar` won't allow the program to continue until the user pressed
 the Enter key.
 
-### Solution
-See `2.c`.

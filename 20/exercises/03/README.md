@@ -7,6 +7,3 @@ that the arguments have the same type.
 #define M(x,y) ((x)^=(y),(y)^=(x),(x)^=(y))
 ```
 
-### Solution
-
-The macro swaps the values of `x` and `y`.

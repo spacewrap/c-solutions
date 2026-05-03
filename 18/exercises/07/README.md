@@ -9,7 +9,3 @@ statements about `x` is *false*?
 (c) `x` is subject to the same scope rules as variables.  
 (d) `x` can be of any type.
 
-### Solution
-
-(a) is false because constant variables cannot be used in constant expressions.
-All other statements are true.

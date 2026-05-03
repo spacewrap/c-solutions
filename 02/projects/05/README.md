@@ -8,5 +8,3 @@ value of the following polynomial:
 by itself repeatedly in order to compute the powers of x. (For example, `x * x *
 x` is `x` cubed.)
 
-### Solution
-See `5.c`.

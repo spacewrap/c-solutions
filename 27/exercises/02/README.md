@@ -7,4 +7,3 @@ preprocessor operator to attach a suffix to `n` containing a combination of `L`
 and/or `U` characters (See Section 7.1 for a discussion of how to use the `L`
 and `U` suffixes with integer constants).
 
-### Solution

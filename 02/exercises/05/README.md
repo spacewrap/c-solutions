@@ -6,6 +6,3 @@ Which of the following are not legal C identifiers?
 (c) `one_hundred_bottles`  
 (d) `bottles_by_the_hundred`
 
-### Solution
-(a) is not a legal identifier, because identifiers must start with a letter or
-underscore.

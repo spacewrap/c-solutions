@@ -7,6 +7,3 @@ the program will display the number in the form *a* + *bi*, where
 *a* = *r* cos &theta;  
 *b* = *r* sin &theta;
 
-### Solution
-
-See `3.c`.

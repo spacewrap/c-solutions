@@ -10,16 +10,3 @@ but hidden from functions in other files. Which storage class should `x` be
 declared to have?  
 (c) Which storage classes can affect the storage duration of a variable?
 
-### Solution
-
-#### (a)
-
-`extern`.
-
-#### (b)
-
-`static`.
-
-#### (c)
-
-`extern` and `static` for non-global variables.

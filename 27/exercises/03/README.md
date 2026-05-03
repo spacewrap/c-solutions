@@ -10,9 +10,3 @@ the indicated new type.
 (c) `printf("%-6o", i);    Original type: unsigned int  New type: uint16_t`  
 (d) `printf("%#x", i);     Original type: unsigned int  New type: uint64_t`
 
-### Solution
-
-(a) `printf("%" PRId8, i);`  
-(b) `printf("%12.4" PRId32, i);`  
-(c) `printf("%-6" PRIo16, i);`  
-(d) `printf("%#" PRIx64, i);`

@@ -54,6 +54,3 @@ uncompressed version of its contents to `foo.txt`. `uncompress_file` should
 display an error message if its command-line argument doesn't end with the
 `.rle` extension.
 
-### Solution
-
-See `compress_file.c` and `uncompress_file.c`.

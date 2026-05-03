@@ -18,29 +18,3 @@ int count_periods(const char *filename)
 }
 ```
 
-### Solution
-
-There are too many `fgetc` calls, which will result in only half of the
-characters being tested for `EOF` and the other half being tested for `.`. To
-fix this error and correctly count the number of periods in the file, assign the
-value of `fgetc` to a variable and test it instead:
-
-```c
-int count_periods(const char *filename)
-{
-    FILE *fp;
-    int n = 0;
-    char c;
-
-    if ((fp = fopen(filename, "r")) != NULL) {
-        while ((c = fgetc(fp)) != EOF)
-            if (c == '.')
-                n++;
-        fclose(fp);
-    }
-    return n;
-}
-```
-
-NB: This function also does not check for any errors in the output or input
-files, which could also potentially lead to problems.

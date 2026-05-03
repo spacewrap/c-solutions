@@ -7,5 +7,3 @@ Which of the following are keywords in C?
 (d) `printf`  
 (e) `while`
 
-### Solution
-(a) and (e) are keywords. (b) would be a keyword if `If` was written as `if`.

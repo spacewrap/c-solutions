@@ -10,6 +10,3 @@ be worth $1000 x *e*<sup>.06 x 10</sup> = $1000 x *e*<sup>.6</sup> = $1000 x
 calculation after prompting the user to enter the original amount deposited, the
 interest rate and the number of years.
 
-### Solution
-
-See `5.c`.

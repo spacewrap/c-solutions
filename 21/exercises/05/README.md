@@ -9,9 +9,3 @@ character set is ASCII)?
 #define islower(c) ((c) >= 'a' && (c) <= 'z')
 ```
 
-### Solution
-
-Parameterized macro definitions substituting for library functions must, under
-the C standard, be fully protected by parentheses and evaluate its arguments
-exactly once. The above-defined `islower` macro evaluates `c` twice, which may
-lead to side effects unintended by the `islower` function/macro. 

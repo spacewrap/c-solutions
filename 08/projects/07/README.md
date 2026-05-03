@@ -13,5 +13,3 @@ Row totals: 30 27 40 36 28
 Column totals: 34 37 37 32 21
 ```
 
-### Solution
-See `7.c`.

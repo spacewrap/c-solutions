@@ -5,8 +5,3 @@ during the execution of the statement:
 
 `d = i + f;`
 
-### Solution
-
-The addition operation will require conversion of the value of `i` to `float`,
-and the assignment operation will require conversion of the summed value to
-`double`.

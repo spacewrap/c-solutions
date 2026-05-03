@@ -11,9 +11,3 @@ screen.
 (d) An operating system command interpreter opens a "shell script" (or "batch
 file") containing commands to be executed.
 
-### Solution
-
-(a) `rb+`  
-(b) `a`  
-(c) `rb`  
-(d) `r`

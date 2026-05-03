@@ -13,17 +13,3 @@ this example, the result will be `"http://www.knking.com"`.) Incorporate the
 "search for the end of a string" idiom into your function. *Hint*: Have the
 function replace the last slash in the string by a null character.
 
-### Solution
-
-```c
-void remove_filename(char *url) {
-
-    char *p = url;
-    while (*url) {
-        if (*url == '/')
-            p = url;
-        url++;
-    }
-    *p = '\0';
-}
-```

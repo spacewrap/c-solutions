@@ -8,29 +8,3 @@ upper case.
 (b) Rewrite the `capitalize` function, this time using pointer arithmetic to
 access the characters in the string.
 
-### Solution
-#### (a)
-
-```c
-void capitalize(char str[]) {
-    int i = 0;
-    while (str[i] != '\0') {
-        if (isalpha(str[i]))
-            toupper(str[i]);
-        i++;
-    }
-}
-```
-
-#### (b)
-
-```c
-void capitalize(char *str) {
-    char *c = str;
-    while (c != '\0') {
-        if (isalpha(c))
-            toupper(c);
-        c++;
-    }
-}
-```

@@ -14,5 +14,3 @@ else                   else
     printf("F");           printf("A");
 ```
 
-### Solution
-The statements are equivalent.

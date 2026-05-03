@@ -14,15 +14,3 @@ void print_error(const char *message)
 }
 ```
 
-### Solution
-
-`n` must be declared `static`, so each time it is accessed, the function will
-remember its previous value:
-
-```c
-void print_error(const char *message)
-{
-    static int n = 1;
-    printf("Error %d: %s\n", n++, message);
-}
-```

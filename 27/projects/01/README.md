@@ -26,6 +26,3 @@ root1 = -0.2 + 0.4i
 root2 = -0.2 - 0.4i
 ```
 
-### Solution
-
-See `quadratic.c`.

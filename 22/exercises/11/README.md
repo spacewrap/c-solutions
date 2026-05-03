@@ -17,9 +17,3 @@ while (ch = getc(source_fp) != EOF)
 Would the program compile without an error? If so, what would the program do
 when it's run?
 
-### Solution
-
-The program would compile, but since the relational NOT operator `!=` has
-precedence over the assignment operator `=`, the program would always assign the
-value `1` to `ch`, and the call of `putc` would never put the correct characters
-to the file pointed to by `dest_fp`.

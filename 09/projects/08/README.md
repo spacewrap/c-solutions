@@ -54,5 +54,3 @@ displaying the "you win" and "you lose" messages. *Hint*: Use the `rand`
 function to generate random numbers. See the `deal.c` program in Section 8.2 for
 an example of how to call `rand` and the related `srand` function.
 
-### Solution
-See `8.c`.

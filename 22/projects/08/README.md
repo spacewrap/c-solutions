@@ -19,6 +19,3 @@ Enter name of input file: inventory.dat
 *Hint:* Use `fwrite` to write the array containing the parts to a binary file.
 Use `fread` to restore the array by reading it from a file.
 
-### Solution
-
-See program files.

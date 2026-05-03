@@ -11,20 +11,3 @@ be recompiled?
 (d) If `f2.h` is changed after the program has been built, which files need to
 be recompiled?
 
-### Solution
-
-#### (a)
-
-`main.c`, `f1.c` and `f2.c`.
-
-#### (b)
-
-`f1.c`
-
-#### (c)
-
-`main.c`, `f1.c` and `f2.c`.
-
-#### (d)
-
-`f1.c` and `f2.c`.

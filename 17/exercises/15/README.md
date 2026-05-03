@@ -28,7 +28,3 @@ int f2(int i)
 }
 ```
 
-### Solution
-
-`f1(f2)` calls `f(n)` from `n = 0` to `n = 3` (where `f2` returns `0`). `f1`
-then returns `3`, and the `printf` call prints `Answer: 3`.

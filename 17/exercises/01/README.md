@@ -8,15 +8,3 @@ that `malloc` doesn't return a null pointer, and then returns the pointer from
 `malloc`. Have `my_malloc` print an error message and terminate the program if
 `malloc` returns a null pointer.
 
-### Solution
-
-```c
-void *my_malloc(size_t n) {
-    void *p;
-    if ((p = malloc(n)) == NULL) {
-        printf("Error: malloc failed.\n");
-        exit(EXIT_FAILURE);
-    }
-    return p;
-}
-```

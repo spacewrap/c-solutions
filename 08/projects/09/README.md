@@ -42,5 +42,3 @@ A B G H I . . . . .
 
 `Y` is blocked on all four sides, so there's no place to put `Z`.
 
-### Solution
-See `9.c`.

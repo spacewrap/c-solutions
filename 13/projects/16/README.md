@@ -13,6 +13,3 @@ other initially pointing to the last character. Have the function reverse these
 characters and then move the pointers toward each other, repeating the process
 until the pointers meet.
 
-### Solution
-
-See `16.c`.

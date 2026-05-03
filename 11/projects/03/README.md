@@ -12,5 +12,3 @@ void reduce(int numerator, int denominator,
 the function will store the numerator and denominator of the fraction once it
 has been reduced to lowest terms.
 
-### Solution
-See `3.c`.

@@ -7,8 +7,3 @@ Convert the following calls of `atoi`, `atol` and `atoll` into calls of
 (b) `atol(str)`  
 (c) `atoll(str)`
 
-### Solution
-
-(a) `strtol(str, &str, 10)`  
-(b) `strtol(str, &str, 10)`  
-(c) `strtoll(str, &str, 10)`

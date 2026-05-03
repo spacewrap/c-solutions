@@ -10,5 +10,3 @@ Fodsick, L.
 The user's input may contain extre spaces before the first name, between the
 first and last names, and after the last name.
 
-### Solution
-See `11.c`.

@@ -14,8 +14,3 @@ otherwise, where *n* is the value of `widget`. You are not allowed to use the
 `if` statement or any other statement; the answer must be a single call of
 `printf`.
 
-### Solution
-
-```c
-printf("%d widget%s", widget, widget != 1 ? "s\n" : "\n");
-```

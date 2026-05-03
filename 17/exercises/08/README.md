@@ -9,6 +9,3 @@ that they use this pointer. Remove the `is_full` function, instead having `push`
 return either `true` (if memory was available to create a node) or `false` (if
 not).
 
-### Solution
-
-See `stack.c`.

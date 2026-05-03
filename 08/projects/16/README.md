@@ -25,5 +25,3 @@ third loop to check whether all the elements in the array are zero. If so, the
 words are anagrams. *Hint*: You may wish to use the functions from `<ctype.h>`,
 such as `isalpha` and `tolower`.
 
-### Solution
-See `16.c`.

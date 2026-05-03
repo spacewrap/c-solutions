@@ -7,6 +7,3 @@ do the following:
     position in the array.  
     2. Call itself recursively to sort the first *n* - 1 elements of the array.
 
-### Solution
-
-See `1.c`.

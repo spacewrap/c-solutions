@@ -7,9 +7,3 @@ possible values if an expression may have more than one value.)
 (c) 8 / -5  
 (d) -8 / -5
 
-### Solution
-
-(a) 1  
-(b) -1 or -2  
-(c) -1 or -2  
-(d) 1 or 2

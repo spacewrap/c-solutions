@@ -16,29 +16,3 @@ will produce the following output:
 Special Agent Dale Cooper
 ```
 
-### Solution
-
-```c
-void display(int n, ...)
-{
-    va_list ap;
-    int i;
-    char *p;
-
-    va_start(ap, n);
-
-    for (i = 0; i < n; i++)
-    {
-        p = va_arg(ap, char *);
-        while (*p)
-        {
-            putchar(*p);
-            p++;
-        }
-        if (i < n - 1)
-            putchar(' ');
-    }
-    putchar('\n');
-    va_end(ap);
-}
-```

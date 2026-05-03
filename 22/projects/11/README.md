@@ -12,6 +12,3 @@ assume that there are no spaces in the date. Print an error message if the date
 doesn't have one of the specified forms. *Hint:* Use `sscanf` to extract the
 month, day and year from the command-line argument.
 
-### Solution
-
-See `11.c`.

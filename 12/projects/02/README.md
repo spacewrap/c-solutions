@@ -18,5 +18,3 @@ of positions in the array.
 Revise the program to use pointers instead of integers to keep trac of positions
 in the array.
 
-### Solution
-See `2.c`.

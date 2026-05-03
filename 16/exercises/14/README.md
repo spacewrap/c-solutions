@@ -11,39 +11,3 @@ arguments to the function).
 (c) Scale `s` by a factor of `c` (a `double` value), returning the modified
 version of `s` (`c` is an additional argument to the function).
 
-### Solution
-
-#### (a)
-
-```c
-double shape_area(struct shape s) {
-    if (s.shape_kind == RECTANGLE)
-        return s.u.rectangle.height * s.u.rectangle.width;
-    else
-        return 3.1415 * s.u.circle.radius * s.u.circle.radius;
-}
-```
-
-#### (b)
-
-```c
-struct shape shape_move(struct shape s, int x, int y) {
-    s.center.x += x;
-    s.center.y += y;
-
-    return s;
-}
-```
-
-#### (c)
-
-```c
-struct shape shape_scale(struct shape s, double c) {
-    if (s.shape_kind == RECTANGLE) {
-        s.u.rectangle.height *= c;
-        s.u.rectangle.width *= c;
-    } else
-        s.u.circle.radius *= c;
-    return s;
-}
-```

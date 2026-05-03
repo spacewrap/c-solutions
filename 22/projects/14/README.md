@@ -14,6 +14,3 @@ an added extension of `.enc`. In this example, the original file name is
 `message.txt.enc`. There's no limit on the size of the file to be encrypted or
 on the length of each line in the file.
 
-### Solution
-
-See `encrypt.c`.

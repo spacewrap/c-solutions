@@ -19,13 +19,3 @@ if (key_code & (SHIFT_BIT | CTRL_BIT | ALT_BIT) == 0)
     printf("No modifier keys pressed\n");
 ```
 
-### Solution
-
-The statement doesn't work properly because the relation equality operator `==`
-has precedence before the bitwise AND operator `&`. To fix this, parentheses
-must be added:
-
-```c
-if ((key_code & (SHIFT_BIT | CTRL_BIT | ALT_BIT)) == 0)
-    printf("No modifier keys pressed\n");
-```

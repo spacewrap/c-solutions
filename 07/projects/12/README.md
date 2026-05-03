@@ -10,5 +10,3 @@ The operands in  the expression are floating-point numbers; the operators are
 `+`, `-`, `*` and `/`. The expression is evalued from left to right (no operator
 taes precedence over any other operator).
 
-### Solution
-See `12.c`.

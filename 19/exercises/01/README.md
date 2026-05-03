@@ -13,6 +13,3 @@ on a queue might include:
 Write an interface for a queue module in the form of a header file named
 `queue.h`.
 
-### Solution
-
-See `queue.h`.

@@ -14,5 +14,3 @@ the original number by 8 and repeat the process to arrive at the next-to-last
 digit. (`printf` is capable of displaying numbers in base 8, as we'll see in
 Chapter 7, so there's actually an easier way to write this program.)
 
-### Solution
-See `4.c`.

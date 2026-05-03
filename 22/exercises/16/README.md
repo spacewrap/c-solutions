@@ -14,9 +14,3 @@ such as the following examples:
 Write a call of `sscanf` that extracts the sales rank (but not the `#` symbol)
 and stores it in a string variable named `sales_rank`.
 
-### Solution
-
-```c
-sscanf(str, str[0] == '#' ? "%*[#]%[0123456789,]" : "%*[^#]*[#]%[0123456789,]",
-       sales_rank);
-```

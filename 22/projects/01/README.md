@@ -11,6 +11,3 @@ The program should print a separate `can be opened` or `can't be opened` message
 for each file. Have the program terminate withe status `EXIT_FAILURE` if one or
 more of the files can't be opened.
 
-### Solution
-
-See `1.c`.

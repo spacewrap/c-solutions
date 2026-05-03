@@ -7,6 +7,3 @@ any sequence of non-white-space characters).
 
 Have each program obtain the file name from the command line.
 
-### Solution
-
-See `fchar.c`, `fword.c` and `fline.c`.

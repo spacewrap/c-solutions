@@ -12,5 +12,3 @@ else
 s1[strlen(s1)-6] = '\0';
 ```
 
-### Solution
-`"computers\0"`

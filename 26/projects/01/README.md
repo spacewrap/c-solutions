@@ -8,10 +8,3 @@ aren't especially random)?
 (b) How can we improve the randomness of `rand` for generating numbers within a
 small range?
 
-### Solution
-
-(a) See `1.c`.
-
-(b) Although my output was not extraordinary, the official answer key to this
-book (see <http://knking.com/books/c2/answers/c26.html>) states that "`rand() /
-(RAND_MAX / N + 1)` often gives bettwe results than `rand() % N`."

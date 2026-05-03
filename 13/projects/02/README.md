@@ -11,5 +11,3 @@ allows the user to enter a time, but it's treated as part of the reminder.)
 (c) Have the program print a one-*year* reminder list. Require the user to enter
 the days in the form *month/day*.
 
-### Solution
-See `2.c`.

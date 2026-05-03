@@ -7,6 +7,3 @@ representing the number of minutes since midnight). The program will use a loop
 to search the array for the departure time closest to the time entered by the
 user.
 
-### Solution
-
-See `5.c`. 

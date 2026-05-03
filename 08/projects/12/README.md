@@ -7,5 +7,3 @@ character of the input word is read, the program will use the array to determine
 the SCRABBLE value of that character. Use an array initializer to set up the
 array.
 
-### Solution
-See `12.c`.

@@ -13,12 +13,3 @@ string pointed to by `index_url`. (In this example, the result will be
 a variable that is long enough to hold the resulting string. Keep the function
 as simple as possible by having it use the `strcat` and `strcpy` functions.
 
-### Solution
-
-```c
-void build_index_url(const char *domain, char *index_url) {
-
-    strcpy(index_url, "http:////www.");
-    strcat(strcat(index_url, domain), "//index.html");
-}
-```

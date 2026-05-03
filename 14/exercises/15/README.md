@@ -11,19 +11,3 @@ Inserez Le Disque 1 (if FRENCH is defined)
 Inserte El Disco 1  (if SPANISH is defined)
 ```
 
-### Solution
-
-```c
-#if defined(FRENCH)
-#define INSERT_DISK "Inserez Le Disque 1"
-#
-#elif defined(SPANISH)
-#define INSERT_DISK "Inserte El Disco 1"
-#
-#else
-#define INSERT_DISK "Insert Disk 1"
-#
-#endif
-
-printf("%s\n", INSERT_DISK);
-```

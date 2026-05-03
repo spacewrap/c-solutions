@@ -28,5 +28,3 @@ example, 13:15 is 13 * 60 + 15 = 795 minutes since midnight, which is closer to
 12:47 p.m. (767 minutes since midnight) than to any of the other departure
 times.
 
-### Solution
-See `8.c`.

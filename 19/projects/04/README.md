@@ -5,6 +5,3 @@ stores values of type `void *`, as described in Section 19.5: the `Item` type
 will no longer be used. Modify `stackclient.c` so that it stores pointers to
 strings in the `s1` and `s2` stacks.
 
-### Solution
-
-See program files.

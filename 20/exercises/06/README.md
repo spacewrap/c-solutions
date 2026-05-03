@@ -22,6 +22,3 @@ Number with bytes swapped: 3412
 
 (b) Condense the `swap_bytes` function so that its body is a single statement
 
-### Solution
-
-See `swap_bytes.c`.

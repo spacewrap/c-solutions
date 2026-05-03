@@ -13,28 +13,3 @@ return nothing. The elements of `a` initially point to functions named `insert`,
 (d) `b` is an array of 10 pointers to functions with two `int` arguments that
 return structures with tag `t`.
 
-### Solution
-
-#### (a)
-
-```c
-char *(*p)(char *);
-```
-
-#### (b)
-
-```c
-void (*f(struct t *p, long n))(void);
-```
-
-#### (c)
-
-```c
-void (*a[4])(void) = {insert, search, update, print};
-```
-
-#### (d)
-
-```c
-struct t (*b[10])(int, int);
-```

@@ -8,6 +8,3 @@ calls either `insert`, `search`, `update` or `print`. Add a call of `setjmp` to
 and the program will continue normally). `setjmp` will need a `jmp_buf`
 variable; where should it be declared?
 
-### Solution
-
-See `inventory.c`.

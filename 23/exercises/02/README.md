@@ -17,17 +17,3 @@ Horner's Rule to compute the value of the polynomial:
 
 Use the `fma` function to perform the multiplications and additions.
 
-### Solution
-
-```c
-double evaluate_polynomial(double a[], int n, double x)
-{
-    int i = n;
-    double sum = fma(a[i], x, a[i--]);
-    while (i >= 0)
-    {
-        sum += fma(sum, x, a[i--]);
-    }
-    return sum;
-}
-```

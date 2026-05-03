@@ -9,5 +9,3 @@ screen:
  * *
   *
 ```
-### Solution
-See `1.c`

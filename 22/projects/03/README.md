@@ -14,6 +14,3 @@ it has no more than one file open at a time, `fcat` needs only a single file
 pointer variable. Once it's finished with a file `fcat` can use the same
 variable when it opens the next file.
 
-### Solution
-
-See `fcat.c`.

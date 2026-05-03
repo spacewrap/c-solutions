@@ -10,9 +10,3 @@ display their average (rounded down). You may assume that the file contains no
 more than 10,000 integers. *Hint:* Store the integers in an array and then sort
 the array.
 
-### Solution
-
-See `18.c`.
-
-NB: The file `input.txt` is a five column list of seven thousand random numbers
-between 0 and 100,000,000, generated from <http://www.random.org/integers/>.

@@ -14,5 +14,3 @@ wind force:
 Write a program that asks the user to enter a wind speed (in knots), then
 displays the corresponding description.
 
-### Solution 
-See `4.c`.

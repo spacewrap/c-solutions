@@ -16,23 +16,3 @@ some chess-playing software assigns the king a large value such as 200.)
 array. Use the eumeration constants in `chess_pieces` as subscripts in the
 designators. (*Hint:* See the last question in Q&A for an example.)
 
-### Solution
-
-#### (a)
-
-```c
-const int piece_value[] = {200, 9, 5, 3, 3, 1};
-```
-
-#### (b)
-
-```c
-const int piece_value[] = {
-    [KING] = 200, 
-    [QUEEN] = 9,
-    [ROOK] = 5, 
-    [BISHOP] = 3,
-    [KNIGHT] = 3,
-    [PAWN] = 1
-};
-```

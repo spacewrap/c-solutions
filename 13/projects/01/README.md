@@ -27,5 +27,3 @@ a word, use `strcmp` to compare it with `smallest_word`; if the new word is
 with `largest_word`. Use `strlen` to determine when the user has entered a
 four-letter word.
 
-### Solution
-See `1.c`.

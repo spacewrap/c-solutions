@@ -14,6 +14,3 @@ Which of the following tests will fail?
 (d) `#if defined(M)`  
 (e) `#if !defined(M)`
 
-### Solution
-
-(c) and (e) will fail their tests, as `M` is defined.

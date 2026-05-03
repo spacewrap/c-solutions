@@ -13,8 +13,3 @@ else if (age < 13)
     teenager = false;
 ```
 
-### Solution
-
-```c
-teenager = age >= 13 && age <= 19;
-```

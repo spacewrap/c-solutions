@@ -20,13 +20,3 @@ struct {
     };
 ```
 
-### Solution
-
-```c
-void run_command(char *str) {
-    int i;
-    for (i = 0; i < sizeof(file_cmd)/sizeof(file_cmd[0]); i++)
-        if (strcmp(str, file_cmd[i].cmd_name) == 0)
-            return (*file_cmd[i].cmd_pointer)();
-    return;
-}

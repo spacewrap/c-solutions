@@ -8,8 +8,3 @@ named `MK_COLOR` with three parameters (the red, green and blue intensities).
 green nd blue intensities, with the red value as the last byte and the green
 value as the next-to-last byte.
 
-### Solution
-
-```c
-#define MK_COLOR(r,g,b) ((long) (b) << 16 | (g) << 8 | (r))
-```

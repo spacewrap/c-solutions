@@ -4,6 +4,3 @@
 `reminders` array is a pointer to a `vstring` structure (see Section 17.9)
 rather than a pointer to an ordinary string.
 
-### Solution
-
-See program files.

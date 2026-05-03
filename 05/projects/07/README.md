@@ -11,5 +11,3 @@ Smallest: 10
 Use as few `if` statements as possible: *Hint*: Four `if` statements are
 sufficient.
 
-### Solution
-See `7.c`.

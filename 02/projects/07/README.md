@@ -16,5 +16,3 @@ then reduce the amount by the total value of the $20 bills. Repeat for the
 other bill sizes. Be sure to use integer values throughout, not floating-point
 numbers.
 
-### Solution
-See `7.c`.

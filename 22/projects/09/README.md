@@ -9,6 +9,3 @@ compare the part names and print an error message if they don't match). Have the
 program obtain the names of the input files and the merged file from the command
 line.
 
-### Solution
-
-See `9.c`.

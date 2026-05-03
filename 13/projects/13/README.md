@@ -11,6 +11,3 @@ The function expects `message` to point to a string containing the message to be
 encrypted; `shift` represents the amount by which each letter in the message is
 to be shifted.
 
-### Solution
-
-See `13.c`.

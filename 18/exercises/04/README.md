@@ -12,7 +12,3 @@ int f(int i)
 }
 ```
 
-### Solution
-
-If `f` has never been called before, `f(10)` will return `0`. If `f` has been
-called five times before, `f(10)` will return `50`.

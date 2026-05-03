@@ -15,12 +15,3 @@ other pointing to the last node. When an item is inserted into the queue, add it
 to the end of the list. When an item is removed from the queue, delete the first
 node in the list.
 
-### Solution
-
-#### (a)
-
-See `queue.c`.
-
-#### (b)
-
-See `queue2.c`.  

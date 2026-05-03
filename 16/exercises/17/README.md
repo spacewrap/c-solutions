@@ -16,8 +16,3 @@ a meaningful result)?
 (d) `i = b;`  
 (e) `i = 2 * b + 1;`
 
-### Solution
-
-All statements are legal, but (b) and (c) are potentially unsafe, as
-incrementing `b` or assigning the value of `i` to `b` could result in `b` having
-a value outside of its regular range.

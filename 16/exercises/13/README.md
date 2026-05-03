@@ -30,10 +30,3 @@ following statements are legal, and show how to repair the ones that aren't:
 (e) `s.u.circle = 5;`  
 (f) `s.u.radius = 5;`
 
-### Solution
-
-(a), (b) and (d) are legal statements. (c) must be changed to access the
-`rectangle` structure in the `u` union: `s.u.rectangle.height = 25;`; (e) must
-be changed to access the `radius` member of the `circle` structure within the
-`u` union: `s.u.circle.radius = 5;`; and (f) must do the same:
-`s.u.circle.radius = 5;`.

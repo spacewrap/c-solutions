@@ -8,6 +8,3 @@ from the standard input stream?
 (c) `getc(stdin)`  
 (d) `fgetc(stdin)`
 
-### Solution
-
-(a) `getch()` is not a function in the standard library.

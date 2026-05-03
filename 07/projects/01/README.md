@@ -7,13 +7,3 @@ conversion specifications in the call of `printf`!) Then try `long`. From these
 experiments, what can you conclude about the number of bits used to store
 integer types on your machine?
 
-### Solution
-See `1.c`.
-
-Smallest value of `n` that causes failure while `i` is of type  
-`int`: 46341  
-`short`: 182   
-`long`: 3037000500 
-
-Therefore, my machine stores `short` in 16 bits, `int` as 32 bits and `long` in
-64 bits.

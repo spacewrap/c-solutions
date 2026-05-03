@@ -16,5 +16,3 @@ passing it the two arrays. `equal_array` will return `true` if the elements in
 the two arrays are identical (indicating that the words are anagrams) and
 `false` otherwise.
 
-### Solution
-See `4.c`.

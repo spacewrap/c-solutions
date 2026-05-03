@@ -11,13 +11,3 @@ In which standard header would you expect to find each of the following?
 (g) A function that searches a string for a particular character  
 (h) A function that opens a file for reading
 
-### Solution
-
-(a) `<time.h>`  
-(b) `<ctype.h>`  
-(c) `<limits.h>`  
-(d) `<math.h>`  
-(e) `<limits.h>`  
-(f) `<float.h>`  
-(g) `<string.h>`  
-(h) `<stdio.h>`

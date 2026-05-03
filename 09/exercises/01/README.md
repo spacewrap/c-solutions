@@ -12,15 +12,3 @@ double product;
 }
 ```
 
-### Solution
-The line `double product` should be placed inside the function, and the
-function's `height` parameter should have a type `double`.
-
-```c
-double triangle_area(double base, double height)
-{
-    double product;
-    product = base * height;
-    return product / 2;
-}
-```

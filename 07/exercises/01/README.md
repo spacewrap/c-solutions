@@ -5,8 +5,3 @@ Give the decimal value of each of the following integer constants.
 (b) `0x77`  
 (c) `0XABC`
 
-### Solution
-
-(a) 63  
-(b) 119  
-(c) 2748

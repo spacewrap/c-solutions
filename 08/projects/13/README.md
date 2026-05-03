@@ -11,5 +11,3 @@ The program will need to store the last name (but not the first name) in an
 array of characters until it can be printed. You may assume that the last name
 is no more than 20 characters long.
 
-### Solution
-See `13.c`.

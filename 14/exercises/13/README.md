@@ -32,36 +32,3 @@ void f(void)
 
 (b) What will be the output of this program?
 
-### Solution
-
-#### (a)
-
-```c
-
-
-
-
-void f(void);
-
-int main(void)
-{
-    f();
-
-
-
-    return 0;
-}
-
-void f(void)
-{
-
-
-
-    printf("N is undefined\n");
-
-}
-```
-
-#### (b)
-
-`"N is undefined\n"`.

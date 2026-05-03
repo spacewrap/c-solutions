@@ -13,16 +13,3 @@ by `n` places, with the bits that were "shifted off" moved to the right end of
 `0x23456781` if integers are 32 bits long). `rotate_right` is similar, but it
 should "rotate" bits to the right instead of the left.
 
-### Solution
-
-```c
-unsigned int rotate_left(unsigned int i, int n)
-{
-    return (i << n) | (i >> (sizeof(int) * 8) - n);
-}
-
-unsigned int rotate_right(unsigned int i, int n)
-{
-    return (i << (sizeof(int) * 8) - n) | (i >> n);
-}
-```

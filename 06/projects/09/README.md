@@ -5,5 +5,3 @@ payments. Modify the program so that it also asks the user to enter the number
 of payments and then displays the balance remaining after each of these
 payments.
 
-### Solution
-See `9.c`.

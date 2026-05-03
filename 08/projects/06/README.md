@@ -19,5 +19,3 @@ for certain letters (A→4, B→8, E→3, I→1, O→0, S→5), and then append 
 exclamation marks. *Hint*: Store the original message in an array of characters,
 then go back through the array, translating and printing characters one by one.
 
-### Solution
-See `6.c`.

@@ -4,5 +4,3 @@ How many tokens are there in the following statemnt?
 answer=(3*q-p*p)/3;
 ```
 
-### Solution
-There are thirteen tokens in the statement, six of which are non-unique.

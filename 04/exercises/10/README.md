@@ -17,9 +17,3 @@ Show the output produced by each of the following program fragments. Assume that
     printf("%d %d", i, j);
 ```
 
-### Solution
-
-(a) 12 12  
-(b) 3 4  
-(c) 2 9  
-(d) 6 9

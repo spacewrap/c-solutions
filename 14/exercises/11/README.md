@@ -15,8 +15,3 @@ the items to be displayed:
 ERROR("Range error: index = %d\n", index);
 ```
 
-### Solution
-
-```c
-#define ERROR(s,...) (fprintf(stderr, (s), __VA_ARGS__))
-```

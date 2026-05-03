@@ -29,17 +29,3 @@ function from `<math.h>` or `<complex.h>`.
 (k) `cimag(f)`  
 (l) `conj(ldc)`
 
-### Solution
-
-(a) `tan(i)`  
-(b) `fabsf(f)`  
-(c) `asin(d)`  
-(d) `expl(ld)`  
-(e) `clogf(fc)`  
-(f) `cacosh(dc)`  
-(g) `nexttoward(d, ld)`  
-(h) `remainder(f, i)`  
-(i) `copysignl(d, ld)`  
-(j) `carg(i)`  
-(k) `cimagf(f)`  
-(l) `conjl(ldc)`

@@ -13,5 +13,3 @@ Scrabble value: 12
 Your program should allow any mixture of lower-case and upper-case letters in
 the word. *Hint*: Use the `toupper` library function.
 
-### Solution
-See `5.c`.

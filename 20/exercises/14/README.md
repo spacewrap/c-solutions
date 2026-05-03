@@ -7,14 +7,3 @@ occupies 32 bits, with bit-field members corresponding to the sign, exponent,
 and fraction. Declare the bit-fields to have type `unsigned int`. Check the
 manual for your compiler to determine the order of the bit-fields.
 
-### Solution
-
-```c
-struct float_value {
-    unsigned int fraction: 23;
-    unsigned int exponent: 8;
-    unsigned int sign: 1;
-};
-```
-
-NB: The ordering of this structure is according to GCC.

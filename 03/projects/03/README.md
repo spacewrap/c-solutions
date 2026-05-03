@@ -24,5 +24,3 @@ groups have the lengths shown in this example. Test your program with actual
 ISBN values (usually found on the back cover of a book and on the copyright
 page).
 
-### Solution
-See `3.c`.

@@ -9,5 +9,3 @@ Equivalent 24-hour time: 21:11
 
 See Programming Project 8 for a description of the input format.
 
-### Solution
-See `9.c`.

@@ -16,5 +16,3 @@ Two of hearts
 *Hint*: Replace `rank_code` and `suit_code` by arrays containing pointers to
 strings.
 
-### Solution
-See `3.c`.

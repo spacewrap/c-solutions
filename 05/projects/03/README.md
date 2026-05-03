@@ -9,5 +9,3 @@ plus 3 cents per share fewer than 2000 shares; $33 plus 2 cents per share for
 2000 shares or more). Display the rival's commission as well as the commission
 charged by the original broker.
 
-### Solution
-See `3.c`.

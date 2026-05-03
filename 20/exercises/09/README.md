@@ -10,13 +10,3 @@ int count_ones(unsigned char ch);
 
 (b) Write the function in part (a) without using a loop.
 
-### Solution
-
-```c
-int count_ones(unsigned char ch)
-{
-    if (ch == 0)
-        return 0;
-    return count_ones(ch & ch - 1) + 1;
-}
-```

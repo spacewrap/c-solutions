@@ -11,5 +11,3 @@ print the following:
 100
 ```
 
-### Solution
-See `6.c`.

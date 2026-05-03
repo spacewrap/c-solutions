@@ -5,5 +5,3 @@ array instead. Each row of the array will represent a card. For example, if the
 array is named `hand`, then `hand[0][0]` will store the rank of the first card
 and `hand[0][1]` will store the suit of the first card.
 
-### Solution
-See `3.c`.

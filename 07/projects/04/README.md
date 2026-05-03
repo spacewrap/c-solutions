@@ -18,5 +18,3 @@ Enter phone number: 1-800-COL-LECT
 
 You may assums that any letteres entered by the user are upper case.
 
-### Solution
-See `4.c`.

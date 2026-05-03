@@ -13,5 +13,3 @@ Commission: $144.00
 Enter value of trade: 0
 ```
 
-### Solution
-See `4.c`.

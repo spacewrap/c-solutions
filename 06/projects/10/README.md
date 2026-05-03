@@ -12,5 +12,3 @@ Enter a date (mm/dd/yy): 0/0/0
 5/17/07 is the earliest date
 ```
 
-### Solution
-See `10.c`.

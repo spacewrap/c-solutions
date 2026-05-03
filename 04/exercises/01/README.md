@@ -13,9 +13,3 @@ Show the output produced by each of the following program fragments. Assume that
     printf("%d", (i + 5) % (j + 2) / k);
 ```
 
-### Solution
-
-(a) 1 2  
-(b) 0  
-(c) 1  
-(d) 0

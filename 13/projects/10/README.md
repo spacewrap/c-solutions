@@ -13,6 +13,3 @@ followed by a comma, a space, the first initial and a period. The original
 string may contain extra spaces before the first name, between the first and
 last names and after the last name.
 
-### Solution
-
-See `10.c`.

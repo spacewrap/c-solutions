@@ -23,11 +23,3 @@ void swap(int a, int b)
 }
 ```
 
-### Solution
-`i = 1, j = 2`
-
-Although it would appear that the `swap` function will swap the values of `i`
-and `j`, the function does not do this. The `swap` function is passed the
-*values* of `i` and `j`, assigns them to `a` and `b`, and their values are
-discarded, having no side-effects to the variables `i` and `j`. A solution
-involving the `&` operator is possible.

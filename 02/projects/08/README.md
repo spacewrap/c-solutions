@@ -18,5 +18,3 @@ the balance times the monthly interest rate. To find the monthly interest rate,
 convert the interest rate entered by the user to a percentage and divide it by
 12.
 
-### Solution
-See `8.c`.

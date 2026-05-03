@@ -6,5 +6,3 @@ following assignments are legal?
 (b) `*p = &i;`  (e) `p = *&q;`  (h) `*p = q;`  
 (c) `&p = q;`   (f) `p = q;`    (i) `*p = *q;`
 
-### Solution
-(e), (f) and (i) are legal statements.

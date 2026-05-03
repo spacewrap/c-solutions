@@ -14,5 +14,3 @@ departure and arrival times of this flight (also expressed in minutes since
 midnight) in the variables pointed to by `departure_time` and `arrival_time`,
 respectively.
 
-### Solution
-See `2.c`.

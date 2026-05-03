@@ -4,8 +4,3 @@ number of elements in an array. The expression `sizeof(a) / sizeof(`*t*`)`,
 where *t* is the type of `a`'s elements, would also work, but it's considered an
 inferior technique. Why?
 
-### Solution
-
-The second expression may not necessarily reflect the type of a value in `a`.
-For example, if `a` was changed from an array of `int`s to an array of `long`s,
-then each instance of `sizeof(`*t*`)` would have to be changed.

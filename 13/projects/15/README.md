@@ -9,6 +9,3 @@ int evaluate_RPN_expression(const char *expression);
 
 The function returns the value of the RPN expression pointed to by `expression`.
 
-### Solution
-
-See `15.c`.

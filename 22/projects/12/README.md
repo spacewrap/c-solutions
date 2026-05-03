@@ -24,6 +24,3 @@ Item            Unit            Purchase
 
 Have the program obtain the file name from the command line.
 
-### Solution
-
-See program files.

@@ -16,6 +16,3 @@ Total: 94
 *Hint*: Use the `atoi` function to convert each command-line argument from
 string form to integer form.
 
-### Solution
-
-See `sum.c`.

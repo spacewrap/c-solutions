@@ -28,5 +28,3 @@ product of .00001 and y. *Hint*: Call the `fabs` function to find the absolute
 value of a `double`. (You'll need to include the `<math.h>` header at the
 begging of your program in order to use `fabs`.)
 
-### Solution
-See `14.c`.

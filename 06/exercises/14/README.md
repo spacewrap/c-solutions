@@ -6,9 +6,3 @@ if (n % 2 == 0);
     printf("n is even\n");
 ```
 
-### Solution
-
-```c
-if (n % 2 == 0)            /* removed semicolon */
-    printf("n is even\n");
-```

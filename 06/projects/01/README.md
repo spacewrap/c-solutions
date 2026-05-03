@@ -17,9 +17,3 @@ The largest number entered was 100.62
 
 Notice that the numbers aren't necessarily integers.
 
-### Solution
-See `1.c`.
-
-#### TODO
-[] Fix rounding precision error on result
-[] Display integer result correctly

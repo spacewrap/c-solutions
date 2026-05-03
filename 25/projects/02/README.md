@@ -34,6 +34,3 @@ int_n_sign_posn = 1
 For readability, the characters in `grouping` and `mon_grouping` should be
 displayed as decimal numbers.
 
-### Solution
-
-See `2.c`.

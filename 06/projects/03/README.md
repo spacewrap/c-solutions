@@ -11,5 +11,3 @@ In lowest terms: 1/2
 numberator and denominator. Then divide both the numerator and denominator by
 the GCD.
 
-### Solution
-See `3.c`.

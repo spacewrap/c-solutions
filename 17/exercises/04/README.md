@@ -13,10 +13,3 @@ corner is at (10, 25) and whose lower right corner is at (20, 15). Write a
 series of statements that allocate such a structure and initialize it as
 indicated.
 
-### Solution
-
-```c
-p = (struct rectangle *) malloc(sizeof(struct rectangle));
-p->upper_left = {10, 25};
-p->lower_right = {20, 15};
-```

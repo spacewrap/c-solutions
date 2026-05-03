@@ -8,7 +8,3 @@ value?
 (c) Linkage  
 (d) Type
 
-### Solution
-
-(a). A variable with static storage duration will be defaulted to zero upon
-declaration.

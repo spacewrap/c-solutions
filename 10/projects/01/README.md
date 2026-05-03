@@ -19,5 +19,3 @@ parentheses/braces are matched. If the stack *isn't* empty (or if
 `stack_overflow` is called, have the program print the message `Stack overflow`
 and terminate immediately.
 
-### Solution
-See `1.c`.

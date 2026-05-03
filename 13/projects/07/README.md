@@ -6,6 +6,3 @@ a `switch` statement to print the words for the first digit, use the digit as an
 index into an array that contains the strings `"twenty"`, `"thirty"` and so
 forth.
 
-### Solution
-
-See `7.c`.

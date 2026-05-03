@@ -8,9 +8,3 @@ store the item.
 (c) Minutes in a day  
 (d) Seconds in a day
 
-### Solution
-
-(a) Max. 31: `char`  
-(b) Max. 366: `short`  
-(c) Max. 1500: `short`  
-(d) Max. 86760: `long`

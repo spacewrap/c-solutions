@@ -19,8 +19,3 @@ Which of the following statements are legal?
 (c) `(*p).d.a = '*';`  
 (d) `p->d->c = 20;`
 
-### Solution
-
-(b) and (c) are legal. (a) is not legal because it must mention `d`: `p->d.a = '
-';`. (d) is not legal because it uses `->` while it should use `.`: `p->d.c =
-20;`.

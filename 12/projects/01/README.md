@@ -15,5 +15,3 @@ read is `'\n'`.
 Revise the program to use a pointer instead of an integer to keep track of the
 current position in the array.
 
-### Solution
-See `1.c`.

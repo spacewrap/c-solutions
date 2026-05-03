@@ -19,5 +19,3 @@ Examples of valid input:
 You may assume that the input has one of these forms; there is no need to test
 for errors.
 
-### Solution
-See `8.c`.

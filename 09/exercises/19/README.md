@@ -14,7 +14,3 @@ void pb(int n)
 Trace the execution of the function by hand. Then write a program that calls the
 function, passing it a number entered by the user. What does the function do?
 
-### Solution
-
-The function prints the binary representation of the integer passed to it. See
-`pb.c` for a complete program implementation.

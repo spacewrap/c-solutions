@@ -32,9 +32,3 @@ in that scope:
 (c) The block in which `e` is declared  
 (d) The `main` function
 
-### Solution
-
-(a) `a`, `b` and `c`  
-(b) `a` and `d`. (`e` is only available within its block)  
-(c) `a`, `d` and `e`  
-(d) `a` and `f`

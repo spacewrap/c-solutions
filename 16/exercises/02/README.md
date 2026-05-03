@@ -13,35 +13,3 @@ in one statement, or does it require two?
 (d) Write statements that add the corresponding members of `c1` and `c2`,
 storing the result in `c3`.
 
-### Solution
-
-#### (a)
-
-```c
-struct {
-    double real;
-    double imaginary;
-} c1, c2, c3;
-```
-
-#### (b)
-
-```c
-struct {
-    double real;
-    double imaginary;
-} c1 = {0.0, 1.0}, c2 = {1.0, 0.0}, c3;
-```
-
-#### (c)
-
-```c
-c1 = c2;
-```
-
-#### (d)
-
-```c
-c3.real = c1.real + c2.real;
-c4.imaginary = c1.imaginary + c2.imaginary;
-```

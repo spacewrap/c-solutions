@@ -5,5 +5,3 @@ are aliases for `i`?
 (a) `*p`        (c) `*&p`       (e) `*i`        (g) `*&i`  
 (b) `&p`        (d) `&*p`       (f) `&i`        (h) `&*i`
 
-### Solution
-(a) and (g) are aliases for `i`.

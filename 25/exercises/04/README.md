@@ -12,10 +12,3 @@ string `"d\xe9j\xe0 vu"`.
 (d) *Fahrvergnügen*  
 (e) *tête-à-tête*
 
-### Solution
-
-(a) `C\xf4te d'Azur`  
-(b) `cr\xe8me br\xfbl\xe9e`  
-(c) `cr\xe9me fra\xeeche`  
-(d) `Fahrvergn\xfcgen`  
-(e) `t\xeate-\xe0-t\xeate`

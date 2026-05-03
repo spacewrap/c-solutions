@@ -12,6 +12,3 @@ char *duplicate(const char *p)
 }
 ```
 
-### Solution
-The string `q` points to will not be accessible outside the scope of the
-function.

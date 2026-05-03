@@ -14,9 +14,3 @@ encoded using Shift-JIS in the current locale.
 (c) `"\xde\xad\xbe\xef"`  
 (d) `"\x8a\x60\x92\x74\x41"`
 
-### Solution
-
-(a) `0`  
-(b) `-1`  
-(c) `-1`  
-(d) `-1` (two errors: `\x8a` and `\x92`)

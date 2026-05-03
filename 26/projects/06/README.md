@@ -7,6 +7,3 @@ formats. Use `strftime` to do all or most of the formatting.
 (b) `Sun, 3 Jun 07  17:48`  
 (c) `06/03/07  5:48:34 PM`
 
-### Solution
-
-See `6a.c`, `6b.c` and `6c.c`.

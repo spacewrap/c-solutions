@@ -6,11 +6,3 @@ Replace the test condition in the following `if` statement by a single call of
 
 `if (ch == 'a' || ch == 'b' || ch == 'c')` ...
 
-### Solution
-
-```c
-if (strchr("abc", ch) != NULL)
-{
-    /* ... */
-}
-```

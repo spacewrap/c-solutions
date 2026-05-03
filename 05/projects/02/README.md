@@ -9,5 +9,3 @@ Equivalent 12-hour time: 9:11 PM
 
 Be careful not to display 12:00 as 0:00.
 
-### Solution
-See `2.c`.

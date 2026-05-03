@@ -9,6 +9,3 @@ save the `next` pointer; it won't be valid once the program terminates). As it
 reads parts from a file, the `r` operation will rebuild the list one node at a
 time.
 
-### Solution
-
-See program files.

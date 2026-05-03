@@ -6,6 +6,3 @@ initially to allocate enough space for an array of 10 `part` structures. When
 the array has no more room for new parts, use `realloc` to double its size.
 Repeat the double step each time the array becomes full.
 
-### Solution
-
-See `1.c`.

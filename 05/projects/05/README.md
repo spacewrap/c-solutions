@@ -13,5 +13,3 @@ In one state, single residents are subject to the following income tax:
 Write a program that asks the user to enter the amount of taxable income, then
 displays the tax due.
 
-### Solution
-See `5.c`.

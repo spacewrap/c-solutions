@@ -7,5 +7,3 @@ Enter a number: 939577
 Repeated digit(s): 7 9
 ```
 
-### Solution
-See `1.c`.

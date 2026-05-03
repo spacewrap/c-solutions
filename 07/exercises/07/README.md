@@ -8,9 +8,3 @@ which lists the numerical codes for ASCII characters.
 (c) `\r`  
 (d) `\t`
 
-### Solution
-
-(a) `\10`  
-(b) `\12`  
-(c) `\15`  
-(d) `\11`

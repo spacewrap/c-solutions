@@ -10,6 +10,3 @@ bool are_anagrams(const char *word1, const char *word2);
 The function returns `true` if the strings pointed to by `word1` and `word2` are
 anagrams.
 
-### Solution
-
-See `14.c`.

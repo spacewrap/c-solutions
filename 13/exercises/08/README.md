@@ -8,6 +8,3 @@ strcpy(&str[4], "d-or-wi");
 strcat(str, "red?");
 ```
 
-### Solution
-
-`"tired-or-wired?\0"`

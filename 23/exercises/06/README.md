@@ -13,9 +13,3 @@ it. If the array is too small, assume that the string is to be truncated; no
 null character is necessary at the end.  
 (d) Copying the contents of one array variable into another.
 
-### Solution
-
-(a) `memmove`.  
-(b) `memmove`.  
-(c) `strncpy`.  
-(d) `memcpy`.

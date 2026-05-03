@@ -25,5 +25,3 @@ number directly below the previously stored number. If your compiler supports
 variable-length arraysm declare the array to have *n* rows and *n* columns. If
 not, declare the array to have 99 rows and 99 columns.
 
-### Solution
-See `17.c`.

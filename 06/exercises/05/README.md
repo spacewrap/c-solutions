@@ -6,8 +6,3 @@ Which one of the following statements is not equivalent to the other two
 (b) `for (; i < 10;) {`...`}`  
 (c) `do {`...`} while (i < 10);`
 
-### Solution
-The third statement (c) is not equivalent to the other two, because the `do`
-statement will always run at least once, then check if the condition in the
-`while` statment is true, unlike the other two statements, which always check
-the condition first.

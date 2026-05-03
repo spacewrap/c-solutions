@@ -14,9 +14,3 @@ void f(register double b)
 }
 ```
 
-### Solution
-
-`a`: static duration, file scope, external linkage.  
-`b`: automatic duration, block scope, no linkage.  
-`c`: static duration, block scope, no linkage.  
-`d`: automatic duration, block scope, no linkage.

@@ -22,5 +22,3 @@ example), the numbers are said to form a *magic square*. The magic square shown
 here appears in a 1514 engraving by artist and mathematician Albrecht Dürer.
 (Note that the middle numbers in the last row give the date of engraving.)
 
-### Solution
-See `5.c`.

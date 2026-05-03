@@ -12,5 +12,3 @@ F = 0-59. Print an error message if the grade is larger than 100 or less than 0.
 *Hint*: Break the grade into two digits, then use a `switch` statement to test
 the ten's digit.
 
-### Solution
-See `10.c`.

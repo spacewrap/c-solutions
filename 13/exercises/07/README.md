@@ -7,7 +7,3 @@ statements is not equivalent to the other three?
 (c) `strcpy(str, "");`  
 (d) `strcat(str, "");`
 
-### Solution
-(d) is not equivalent to the other three options, as `strcat` appends the null
-character to the end of `str`, while the other three insert the value at the
-first character of `str`.

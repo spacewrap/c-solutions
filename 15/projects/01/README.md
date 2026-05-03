@@ -9,6 +9,3 @@ separated by only two spaces.) Improve the program by having `write_line`
 alternate between putting the larger gaps at the end of the line and putting
 them at the beginning of the line.
 
-### Solution
-
-

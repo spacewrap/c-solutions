@@ -13,10 +13,3 @@ divisors up to the square root of `n`. Modify the loop to take advantage of this
 fact. *Hint*: Don't try to compute the square root of `n`; instead, compare `d *
 d` with `n`.
 
-### Solution
-
-```c
-for (d = 2; d * d <= n; d++)
-    if (n % d == 0)
-        break;
-```

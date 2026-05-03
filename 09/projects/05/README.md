@@ -21,6 +21,3 @@ void create_magic_square(int n, char magic_square[99][99]);
 void print_magic_square(int n, char magic_square[99][99]);
 ```
 
-### Solution
-See `5.c`. Note that the usage of `char` for the magic square will limit the
-output to an 11 x 11 square max size, otherwise `char` will overflow. 

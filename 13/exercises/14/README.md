@@ -15,6 +15,3 @@ int main(void)
 }
 ```
 
-### Solution
-
-`Grinch`, followed by a newline.

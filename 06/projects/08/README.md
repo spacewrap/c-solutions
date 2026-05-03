@@ -19,7 +19,3 @@ the number of days in the month, printing each value of `i`. Inside the loop, an
 `if` statement tests whether `i` is the last day in a week; if so, it prints a
 new-line character.
 
-### Solution
-See `8.c`.
-
-NB: Program week starts on Monday, labels are included.

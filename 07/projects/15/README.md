@@ -19,14 +19,3 @@ supports the `long long` type.
 In cases (e)-(g), the program will display a close approximation of the
 factorial, not necessarily the exact value.
 
-### Solution
-See `15.c`.
-
-(a) 7  
-(b) 13  
-(c) 20  
-(d) 20  
-(e) 34  
-(f) 170  
-(g) 1754 
- 

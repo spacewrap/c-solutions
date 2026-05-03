@@ -13,10 +13,3 @@ return a *pointer* to the first element in an array, a function can return a
 *pointer* to a function, and the elements of an array can be *pointers* to
 functions. Revise each of these declarations accordingly.
 
-### Solution
-
-```c
-int *f(int);
-int (*g(int))(int);
-int (*a[10])(int);
-```

@@ -9,5 +9,3 @@ Write a program that approximates e by computing the value of
 
 where n is an integer entered by the user.
 
-### Solution
-See `11.c`.

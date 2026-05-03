@@ -12,8 +12,3 @@ with Sunday
 
 Give `strftime` strings that correspond to each of these formats.
 
-### Solution
-
-(a) `%Y-%j`  
-(b) `%Y-W%V-%u`  
-(c) `%FT%X`

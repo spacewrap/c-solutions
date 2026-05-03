@@ -7,7 +7,3 @@ variable of type `long int` and `p` is a variable of type `char *`:
 value = strtol(p, &p, 10);
 ```
 
-### Solution
-
-Assign `value` the `long int` value of the string p, in base 10, storing the
-following non-consumed character to `p`.

@@ -6,13 +6,3 @@ Extend the `round_nearest` function so that it rounds a floating-point number
 10<sup>*n*</sup>. Be sure that your function works correctly for both positive
 and negative values of *x*.
 
-### Solution
-
-```c
-double round_nearest(double x, int n)
-{
-    int power = pow(10, n);
-    return x < 0.0 ? ceil(x * power - 0.5) / power : 
-                     floor(x * power + 0.5) / power;
-}
-```

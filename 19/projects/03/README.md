@@ -8,6 +8,3 @@ existing functions in `stackADT3.c` will need to be modified as well). Modify
 `stackclient.c` so that it calls the `length` function (and displays the value
 that it returns) after each operation that modifies a stack.
 
-### Solution
-
-See program files.

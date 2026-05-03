@@ -18,6 +18,3 @@ information listed in the original project:
 21:45 23:58
 ```
 
-### Solution
-
-See program files.

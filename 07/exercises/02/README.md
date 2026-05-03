@@ -8,9 +8,3 @@ constant as either integer or floating-point.
 (d) `100_000`  
 (e) `3.987e-2`
 
-### Solution
-
-(c) and (d) are illegal constants, because of undefined numeral `9` in octal
-number `0790`, and underscore in `100_000`.
-
-(a), (b) and (e) are legal, floating point constants.

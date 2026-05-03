@@ -7,7 +7,3 @@ Which of the following should *not* be put into a header file? Why not?
 (c) Macro definitions  
 (d) Type definitions
 
-### Solution
-
-Function definitions should not be included in a header file because it would
-potentially define individual functions multiple times.

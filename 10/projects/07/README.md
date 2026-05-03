@@ -34,5 +34,3 @@ to `MAX_DIGITS - 1`). `print_digits_array` will display the rows of the `digits`
 array, each on a single line, producing output such as that shown in the
 exmaple.
 
-### Solution
-See `7.c`.

@@ -7,5 +7,3 @@ Enter phone number [(xxx) xxx-xxxx]: (404) 817-6900
 You entered 404.817.6900
 ```
 
-### Solution
-See `4.c`.

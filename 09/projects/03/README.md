@@ -12,5 +12,3 @@ contain `'.'` characters and then replaces some of these characters by the
 letters `A` through `Z`, as described in the original project. `main` then calls
 `print_array` to display the array on the screen.
 
-### Solution
-See `3.c`.

@@ -12,5 +12,3 @@ the function returns 1.) To test your function, write a program that asks the
 user to enter values for *x* and *n*, calls `power` to compute
 *x*<sup>*n*</sup>, and then displays the value returned by the function.
 
-### Solution
-See `7.c`.

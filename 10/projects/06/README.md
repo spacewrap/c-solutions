@@ -31,6 +31,3 @@ as 1 2 + +), the program will display the message `Not enough operands in
 expression` and terminate. *Hints*: Incorporate the stack code from Section 10.2
 into your program. Use `scanf(" %c", &ch)` to read the operators and operands.
 
-### Solution
-See `6.c`. NB: Expressions exceeding `MAX_CHAR` (usually 127) will return
-incorrect answers. 

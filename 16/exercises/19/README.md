@@ -8,13 +8,3 @@ Declare a structure with the following members whose tag is `pinball_machine`:
 (solid state)  
 `players` -- an integer (representing the maximum number of players)
 
-### Solution
-
-```c
-struct pinball_machine {
-    char[40] name;
-    int year;
-    enum { EM, SS } type;
-    int players;
-};
-```

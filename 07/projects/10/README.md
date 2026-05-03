@@ -7,5 +7,3 @@ Enter a sentence: And that's the way it is.
 Your sentence contains 6 vowels.
 ```
 
-### Solution
-See `10.c`.

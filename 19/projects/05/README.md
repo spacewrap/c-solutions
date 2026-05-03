@@ -15,6 +15,3 @@ queue (see Exercise 3(a)). Create a file named `queueclient.c` (similar to the
 operations on them. Be sure to provide `create` and `destroy` functions for your
 ADT.
 
-### Solution
-
-See program files.

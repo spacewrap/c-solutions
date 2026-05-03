@@ -10,19 +10,3 @@ using `#define`.
 (d) All constants in an enumeration must have different values.  
 (e) Enumeration constants may be used as integers in expressions.
 
-### Solution
-
-(a), (c) and (e) are true statements. (b) is false because enumeration constants
-can have block scope and are not evaluated by the preprocessor. (d) is
-demonstrably false:
-
-```c
-enum polygon_sides {
-    SQUARE = 4,
-    RECTANGLE = 4,
-    CIRLCE = 0,
-    TRIANGLE = 3,
-    PENTAGON = 5,
-    HEXAGON = 6,
-};
-```

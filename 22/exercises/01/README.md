@@ -8,9 +8,3 @@ or binary data:
 (c) An email message sent from one computer to another  
 (d) A file containing a graphics image
 
-### Solution
-
-(a) Binary Data  
-(b) Text Data  
-(c) Text Data  
-(d) Binary Data

@@ -12,10 +12,3 @@ int *p = &a[1], *q = &a[5];
 (d) Is the condition `p < q` true or false?  
 (e) Is the condition `*p < *q` true or false?
 
-### Solution
-
-(a) `14`  
-(b) `34`  
-(c) `4`  
-(d) `true`  
-(e) `false`

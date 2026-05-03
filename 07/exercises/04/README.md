@@ -7,7 +7,3 @@ illegal?
 (c) `putchar(c);`  
 (d) `printf(c);`
 
-### Solution
-
-(d) `printf(c);` is illegal, because the `printf` function prints strings, not
-individual (numerical representations of) characters.

@@ -9,5 +9,3 @@ expressions, which are true (have a nonzero value)?
 (c) `*p == a[0]`  
 (d) `p[0] == a[0]`
 
-### Solution
-(a) is illegal. (b), (c) and (d) all return true values.

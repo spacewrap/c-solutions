@@ -13,9 +13,3 @@ output produced by each, assuming that `i`, `j`, and `k` are `int` variables.
     printf("%d", i < j || k);
 ```
 
-### Solution
-
-(a) 1  
-(b) 1  
-(c) 1  
-(d) 1

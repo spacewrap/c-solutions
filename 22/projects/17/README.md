@@ -26,6 +26,3 @@ The output of the program should have the following appearance:
 
 Have the program obtain the file name from the command line.
 
-### Solution
-
-See `17.c`.

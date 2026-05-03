@@ -10,6 +10,3 @@ In each case, have the program obtain the names of both files from the command
 line. *Hint:* Open the input file in `"rb"` mode and the output file in`"wb"`
 mode.
 
-### Solution
-
-See `win2unix.c` and `unix2win.c`.

@@ -7,6 +7,3 @@ that the character set is ASCII.)
 (c) `0101`  
 (d) `0x41`
 
-### Solution
-
-(b) `0b1000001` is illegal, as C does not allow binary represented numbers.

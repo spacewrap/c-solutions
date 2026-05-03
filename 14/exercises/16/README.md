@@ -13,8 +13,3 @@ What will the following line look like after macro expansion?
 IDENT(foo)
 ```
 
-### Solution
-
-```c
-#pragma ident "foo"
-```

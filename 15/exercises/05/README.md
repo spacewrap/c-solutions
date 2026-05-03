@@ -6,6 +6,3 @@ include `f1.h`, but only `f1.c` and `f2.c` include `f2.h`. Write a makefile for
 this program, assuming that the compiler is `gcc` and that the executable file
 is to be named `demo`.
 
-### Solution
-
-See `makefile`.

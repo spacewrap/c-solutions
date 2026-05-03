@@ -10,17 +10,3 @@ bool search(const int a[], int n, int key);
 element of `a`, and `false` if it doesn't. Use pointer arithmetic -- not
 subscripting -- to visit array elements.
 
-### Solution
-
-```c
-bool search(const int a[], int n, int key) {
-
-    const int *p;
-
-    for (p = a; p < a + n; p++) {
-        if (*p == key)
-            return true;
-    }
-    return false;
-}
-```

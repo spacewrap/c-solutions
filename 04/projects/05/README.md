@@ -8,5 +8,3 @@ Enter the first 11 digits of a UPC: 01380015173
 Check digit: 5
 ```
 
-### Solution
-See `5.c`.

@@ -7,5 +7,3 @@ Enter a date (mm/dd/yyyy): 2/17/2011
 You entered the date 20110217
 ```
 
-### Solution
-See `1.c`

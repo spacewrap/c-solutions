@@ -20,6 +20,3 @@ words have been read, sort the array (using any sorting technique) and then use
 a loop to print the words in sorted order. *Hint:* Use the `read_line` function
 to read each word, as in `remind2.c`.
 
-### Solution
-
-See program files.

@@ -6,5 +6,3 @@ Enter an amount: 100.00
 With tax added: $105.00
 ```
 
-### Solution
-See `4.c`.

@@ -13,6 +13,3 @@ should produce the following output:
 null and void
 ```
 
-### Solution
-
-See `reverse.c`.

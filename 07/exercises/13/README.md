@@ -19,11 +19,3 @@ Give the value and the type of each expression listed below.
 (e) `f - d`  
 (f) `(int) f`
 
-### Solution
-
-(a) `-3`, `int`  
-(b) `7`, `long`  
-(c) `6.5f`, `float`  
-(d) `3.75`, `double`  
-(e) `-1.0`, `double`  
-(f) `6`, `int`

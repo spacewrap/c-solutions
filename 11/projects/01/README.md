@@ -12,5 +12,3 @@ necessary to pay the amount represented by the `dollars` parameter. The
 number of $20 bills required. The `tens`, `fives` and `ones` parameters are
 similar.
 
-### Solution
-See `1.c`.

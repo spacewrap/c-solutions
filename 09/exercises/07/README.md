@@ -12,6 +12,3 @@ Which of the following statements are legal? Assume that `i` has type `int` and
 (d) `x = f(3.15, 9.28);`  
 (e) `f(83, 12);`
 
-### Solution
-
-All of the statements are legal.

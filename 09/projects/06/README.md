@@ -7,5 +7,3 @@ Write a program that asks the user to enter a value for *x*, calls the function
 to compute the value of the polynomial, and then displays the value returned by
 the function.
 
-### Solution
-See `6.c`.

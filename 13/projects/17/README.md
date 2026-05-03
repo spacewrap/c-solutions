@@ -10,6 +10,3 @@ bool is_palindrome(const char *message);
 The function returns `true` if the string pointed to by `message` is a
 palindrome.
 
-### Solution
-
-See `17.c`.

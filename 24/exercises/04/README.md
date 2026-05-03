@@ -22,24 +22,3 @@ y = TRY_MATH_FCN(sqrt, x);
 If the call of `sqrt` fails, the message will be `Error in call of sqrt`.
 *Hint:* Have `TRY_MATH_FCN` call `try_math_fcn`.
 
-### Solution
-
-#### (a)
-
-```c
-double try_math_fcn(double (*func)(double), double x, const char *message)
-{
-    errno = 0;
-    double ret = (*func)(x);
-    if (errno == 0)
-        return ret;
-    perror(message);
-    exit(EXIT_FAILURE);
-}
-```
-
-#### (b)
-
-```c
-#define TRY_MATH_FCN(f,x) (try_math_fcn((f), (x), "Error in call of " #f))
-```

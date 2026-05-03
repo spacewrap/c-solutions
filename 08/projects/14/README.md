@@ -14,5 +14,3 @@ the beginning of the last word. Print the last word, then search backward for
 the next-to-last word. Repeat until the beginning of the array is reached.
 Finally, print the terminating character.
 
-### Solution
-See `14.c`.

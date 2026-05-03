@@ -5,5 +5,3 @@ arguments. The `analyze_hand` function needs to change the `straight`, `flush`,
 `four`, `three` and `pairs` variables, so it will have to be passed pointers to
 those variables.
 
-### Solution
-See `4.c`.
