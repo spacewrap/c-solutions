@@ -7,3 +7,8 @@ possible values if an expression may have more than one value.)
 (c) 8 % -5  
 (d) -8 % -5
 
+### Answers
+(a) 3
+(b) -3 or 5
+(c) 3 or -5
+(d) 3 or 5

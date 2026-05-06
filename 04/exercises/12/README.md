@@ -17,3 +17,8 @@ Show the output produced by each of the following program fragments. Assume that
     printf("%d %d", i, j);
 ```
 
+### Answers
+(a) 6 16
+(b) 6 -7
+(c) 6 23
+(d) 6 15

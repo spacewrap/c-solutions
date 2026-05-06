@@ -12,3 +12,7 @@ Subtract the remainder from 10.
 
 Why doesn't this work?
 
+### Answer
+
+Because it could produce a value of 10 depending on the compiler
+
