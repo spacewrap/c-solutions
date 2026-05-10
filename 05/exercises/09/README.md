@@ -14,3 +14,5 @@ else                   else
     printf("F");           printf("A");
 ```
 
+### Answers
+Yes, they are equivalent. 

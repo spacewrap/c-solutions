@@ -13,3 +13,5 @@ else if (age < 13)
     teenager = false;
 ```
 
+### Answers
+teenager = age > 12 && age < 20

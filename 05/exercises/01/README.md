@@ -15,3 +15,8 @@ operators. Show the output produced by each, assuming that `i`, `j`, and `k` are
     printf("%d", i % j + i < k);
 ```
 
+### Answers
+(a) 1
+(b) 1
+(c) 1
+(d) 0

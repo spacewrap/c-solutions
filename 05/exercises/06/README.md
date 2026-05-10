@@ -8,3 +8,5 @@ if (n == 1-10)
 
 If so, what does it do when `n` is equal to 5?
 
+### Answers
+Yes, it is legal. It will check if `n == -9`. But if `n == 5` it will skip the print because `5 != -9`

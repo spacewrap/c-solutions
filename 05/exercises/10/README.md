@@ -11,3 +11,5 @@ switch (i % 3) {
 }
 ```
 
+### Answers
+It outputs `onetwo` because of fallthrough. 
